@@ -49,4 +49,4 @@ The **Mines Prediction App** is a powerful tool designed to enhance your gaming 
 - Mines predictor windows download
 
 ## Support
-For any issues, feedback, or inquiries, please contact our support team at [Mines](https://github.com/minespredictor/minespredictor).
+For any issues, feedback, or inquiries, please contact our support team at [Mines](https://github.com/minespredictor).
